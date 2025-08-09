@@ -374,7 +374,7 @@ const Auth = {
 
         Auth.updateUIForLoggedInUser();
         Auth.closeModal('register-modal');
-        alert('Registration successful! Welcome to ServiceHub!');
+        alert('Registration successful! Welcome to JAM Services!');
     },
 
     updateUIForLoggedInUser: () => {
